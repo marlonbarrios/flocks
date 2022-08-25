@@ -23,121 +23,63 @@ All pngs and gifs were foung in the web.
 
 ## CUTE BOTS
 
-LIVE
+[live app](https://marlonbarrios.github.io/cutebots/)
 
-https://marlonbarrios.github.io/cutebots/
-
-CODE 
-
-https://github.com/marlonbarrios/cutebots
-
-
+[Repo](https://github.com/marlonbarrios/cutebots)
 
 ## FAANGS
 
-LIVE
+[live app](https://marlonbarrios.github.io/faangs/)
 
-https://marlonbarrios.github.io/faangs/
-
-CODE 
-
-https://github.com/marlonbarrios/faangs
-
-
+[Repo](https://github.com/marlonbarrios/faangs)
 
 ## E-MOJIS
 
-LIVE
+[live app](https://marlonbarrios.github.io/flockingemojis/)
 
-https://marlonbarrios.github.io/flockingemojis/
-
-CODE 
-
-https://github.com/marlonbarrios/flockingemojis
-
-
+[Repo](https://github.com/marlonbarrios/flockingemojis)
 
 ## COVIDs
 
-LIVE
+[live app](https://marlonbarrios.github.io/viralflock/)
 
-https://marlonbarrios.github.io/viralflock/
-
-CODE 
-
-https://github.com/marlonbarrios/viralflock
-
-
+[Repo](https://github.com/marlonbarrios/viralflock)
 
 ## FLOCKING BULLETS
 
-LIVE
+[live app](https://marlonbarrios.github.io/bullets/)
 
-https://marlonbarrios.github.io/bullets/
-
-CODE
-
-https://github.com/marlonbarrios/bullets
-
-
+[Repo](https://github.com/marlonbarrios/bullets)
 
 ## BURNING EARTHS
 
-LIVE
+[live app](https://marlonbarrios.github.io/buringworlds/)
 
-https://marlonbarrios.github.io/buringworlds/
-
-CODE 
-
-https://github.com/marlonbarrios/buringworlds
-
+[Repo](https://github.com/marlonbarrios/buringworlds)
 
 ## BED FELLOWS
 
-LIVE
+[live app](https://marlonbarrios.github.io/bedfellows/)
 
-https://marlonbarrios.github.io/bedfellows/
-
-CODE 
-
-https://github.com/marlonbarrios/bedfellows
-
-
+[Repo](https://github.com/marlonbarrios/bedfellows)
 
 ## WARHOL's MARLYNS
 
-LIVE
+[live app](https://marlonbarrios.github.io/warholsmarilyns/)
 
-https://marlonbarrios.github.io/warholsmarilyns/
-
-CODE 
-
-https://github.com/marlonbarrios/warholsmarilyns
-
-
+[Repo](https://github.com/marlonbarrios/warholsmarilyns)
 
 ## RAINBOWS AND MORE
 
-LIVE
+[live app](https://marlonbarrios.github.io/beyondrainbows/)
 
-https://marlonbarrios.github.io/beyondrainbows/
-
-
-CODE 
-
-https://github.com/marlonbarrios/beyondrainbows
-
-
+[Repo](https://github.com/marlonbarrios/beyondrainbows)
 
 ## FLOWERS AND FRIENDS
 
-LIVE
+[live app](https://marlonbarrios.github.io/flowersandfriends/)
 
-https://marlonbarrios.github.io/flowersandfriends/
-
-CODE 
-
-https://github.com/marlonbarrios/flowersandfriends
+[Repo](https://github.com/marlonbarrios/flowersandfriends)
 
 
 ![culture_bot (4)](https://user-images.githubusercontent.com/90220317/186501464-01bd87bb-bab5-4bad-927a-02a38ed2feb9.jpg)
